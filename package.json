@@ -1,0 +1,12 @@
+{
+  "name": "free-fire-clash-squad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "لوحة بطولة خاصة واحدة مع خادم وقاعدة بيانات SQLite",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
